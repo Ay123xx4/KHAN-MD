@@ -120,6 +120,12 @@
   </table>
 </div>
 
+## 🚀 Deploy Free on VPS
+
+> Star this repository to support the project. Fork the repository to your own GitHub account Copy your GitHub > username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
+
+> ⚠️ Note: After deployment, use the .restart command to improve the bot's performance.
+
 <table align="center">
   <tr>
     <td>
